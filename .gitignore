@@ -1,0 +1,6 @@
+*.ts
+*.mp4
+file.ttt
+*.obj
+
+.gitignore~
